@@ -1,6 +1,5 @@
-package src.main.java.com.core.practice5game;
+package src.main.java.com.core.practice5game_practice7weapon;
 
-import src.main.java.com.core.practice7weapon.RangeWeapon;
 //inner and nested classes
 public class Archer<T extends RangeWeapon> extends Hero<T> {
 

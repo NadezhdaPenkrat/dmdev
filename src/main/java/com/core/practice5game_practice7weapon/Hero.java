@@ -1,6 +1,4 @@
-package src.main.java.com.core.practice5game;
-
-import src.main.java.com.core.practice7weapon.Weapon;
+package src.main.java.com.core.practice5game_practice7weapon;
 
 public abstract class Hero<T extends Weapon> {
 

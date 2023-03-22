@@ -1,4 +1,4 @@
-package src.main.java.com.core.practice5game;
+package src.main.java.com.core.practice5game_practice7weapon;
 //inner and nested classes
 public class Enemy implements Mortal {
 

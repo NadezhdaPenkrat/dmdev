@@ -1,6 +1,4 @@
-package src.main.java.com.core.practice5game;
-
-import src.main.java.com.core.practice7weapon.MeleeWeapon;
+package src.main.java.com.core.practice5game_practice7weapon;
 
 public class Warrior<T extends MeleeWeapon> extends Hero<T> {
 
